@@ -1,0 +1,1 @@
+call ..\..\bin\texture2par.exe
